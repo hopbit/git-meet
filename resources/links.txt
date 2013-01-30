@@ -1,1 +1,2 @@
 http://nvie.com/posts/a-successful-git-branching-model/
+http://gitready.com/advanced/2009/02/11/pull-with-rebase.html
