@@ -1,4 +1,7 @@
-.idea/
-gitmeet.iml
 .class
+.classpath
+.idea/
+.project
+bin/
+gitmeet.iml
 target
